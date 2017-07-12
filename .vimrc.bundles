@@ -290,6 +290,7 @@
             Bundle 'cespare/vim-toml'
             Bundle 'quentindecock/vim-cucumber-align-pipes'
             Bundle 'saltstack/salt-vim'
+            Bundle 'OmniSharp/omnisharp-vim'
         endif
     " }
 
