@@ -291,6 +291,7 @@
             Bundle 'quentindecock/vim-cucumber-align-pipes'
             Bundle 'saltstack/salt-vim'
             Bundle 'OmniSharp/omnisharp-vim'
+            Bundle 'tpope/vim-dispatch'
         endif
     " }
 
